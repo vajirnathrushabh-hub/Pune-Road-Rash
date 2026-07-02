@@ -1,0 +1,6 @@
+{
+  "name": "पुणे रोड रॅश",
+  "description": "पुणे आणि पिंपरी चिंचवड शहरात भन्नाट बाईक रायडिंगचा थरार! वास्तववादी हवामान, सायलेन्सर ट्युनिंग, आणि गाड्यांची कस्टमायझेशन सोबत प्रीमियम रोड रॅश अनुभव.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
